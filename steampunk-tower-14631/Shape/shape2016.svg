@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1"
+xmlns="http://www.w3.org/2000/svg"
+xmlns:xlink="http://www.w3.org/1999/xlink"
+width="10px" height="22px"
+xml:space="preserve">
+<g id="1201" transform="matrix(1, 0, 0, 1, 0, 5.4)">
+<path style="fill:#3B3B3B;fill-opacity:0.988235" d="M9.05,-0.85L9.05 0.6L7.5 -0.15L7 -4.45L9.05 -0.85M7,-4.45L6.8 0L0.5 0L0.5 -4.45L7 -4.45M9.05,7.45L7.05 8.95L0.5 8.95L0.5 1.75L6.75 1.75L7.05 7.85L7.6 1.4L9.05 1.2L9.05 7.45" />
+<path style="fill:#1B0900;fill-opacity:0.988235" d="M9.6,-2.05L9.6 12.65L9.05 12.65L7.2 15.7L0 15.7L0 -5.4L7.2 -5.4L9.05 -2.05L9.6 -2.05M9.05,1.2L9.05 0.6L9.05 -0.85L7 -4.45L0.5 -4.45L0.5 0L0.5 1.75L0.5 8.95L0.5 15.05L7 15.05L9.05 11.35L9.05 7.45L9.05 1.2" />
+<path style="fill:#A3A3A3;fill-opacity:1" d="M9.05,1.2L7.6 1.4L7.05 7.85L6.75 1.75L0.5 1.75L0.5 0L6.8 0L7 -4.45L7.5 -0.15L9.05 0.6L9.05 1.2" />
+<path style="fill:#252525;fill-opacity:0.988235" d="M7.05,8.95L9.05 7.45L9.05 11.35L7 15.05L0.5 15.05L0.5 8.95L7.05 8.95" />
+</g>
+</svg>

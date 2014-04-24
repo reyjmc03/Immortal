@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1"
+xmlns="http://www.w3.org/2000/svg"
+xmlns:xlink="http://www.w3.org/1999/xlink"
+width="115px" height="38px"
+xml:space="preserve">
+<g id="1600" transform="matrix(1, 0, 0, 1, 83.35, 35.8)">
+<path style="fill:#ECD4A6;fill-opacity:1" d="M28,-34Q29.85 -32.85 29.85 -29.8L29.85 -18.8Q29.85 -15.75 28 -14.55L27.05 -14.1L25.8 -13.85L25.35 -13.8L6.1 -13.8L0.15 0.5L-5.25 -13.8L-77.35 -13.8Q-82.35 -13.8 -82.35 -18.8L-82.35 -29.8Q-82.35 -34.8 -77.35 -34.8L25.35 -34.8L25.8 -34.75L27.05 -34.45L28 -34M25.5,-5.5L25.8 -5.55L25.8 -5.5L25.5 -5.5" />
+<path style="fill:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke:#623A2D;stroke-opacity:1" d="M27.05,-34.45L25.8 -34.75L25.35 -34.8L-77.35 -34.8Q-82.35 -34.8 -82.35 -29.8L-82.35 -18.8Q-82.35 -13.8 -77.35 -13.8L-5.25 -13.8L0.15 0.5L6.1 -13.8L25.35 -13.8L25.8 -13.85L27.05 -14.1L28 -14.55Q29.85 -15.75 29.85 -18.8L29.85 -29.8Q29.85 -32.85 28 -34L27.05 -34.45z" />
+</g>
+</svg>

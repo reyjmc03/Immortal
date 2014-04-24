@@ -1,0 +1,1 @@
+﻿<p align="center"><font face="Verdana" size="11" color="#edb083" letterSpacing="0.000000" kerning="1">preparing graphics...</font></p>

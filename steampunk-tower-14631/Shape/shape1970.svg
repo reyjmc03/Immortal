@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1"
+xmlns="http://www.w3.org/2000/svg"
+xmlns:xlink="http://www.w3.org/1999/xlink"
+width="39px" height="9px"
+xml:space="preserve">
+<g id="1168" transform="matrix(1, 0, 0, 1, 5.05, 2.3)">
+<path style="fill:#A6A6A6;fill-opacity:1" d="M33.35,0.45L33.35 2.3L27.5 2.3L27.5 0.45L33.35 0.45M-4.65,2.25L-4.65 0.7L26.55 0.7L26.55 2.25L-4.65 2.25" />
+<path style="fill:#1C0A00;fill-opacity:1" d="M27.5,0.45L27.5 2.3L27.5 5.55L31.7 5.55L33.35 4.4L33.35 2.3L33.35 0.45L33.35 -0.15L32.15 -1.55L27.5 -1.55L27.5 -0.15L27.5 0.45M26.85,-2.3L32.3 -2.3L33.95 -0.6L33.95 4.95L32.3 6.2L26.85 6.2L21.75 5.3L-5.05 5.3L-5.05 -1.45L21.8 -1.45L26.85 -2.3M-4.65,0.7L-4.65 2.25L-4.65 4.55L21.8 4.55L26.55 5.5L26.55 2.25L26.55 0.7L26.55 -0.05L26.55 -1.7L21.9 -0.85L-4.65 -0.85L-4.65 0.3L-4.65 0.7" />
+<path style="fill:#383838;fill-opacity:1" d="M27.5,-0.15L27.5 -1.55L32.15 -1.55L33.35 -0.15L27.5 -0.15M22.45,0.3L-4.65 0.3L-4.65 -0.85L21.9 -0.85L26.55 -1.7L26.55 -0.05L22.45 0.3" />
+<path style="fill:#E2E2E2;fill-opacity:1" d="M27.5,0.45L27.5 -0.15L33.35 -0.15L33.35 0.45L27.5 0.45M-4.65,0.7L-4.65 0.3L22.45 0.3L26.55 -0.05L26.55 0.7L-4.65 0.7" />
+<linearGradient
+id="LinearGradID_396" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0, 0.00190735, -0.0012207, 0, 12.95, 3.8)" spreadMethod ="pad" x1="-819.2" y1="0" x2="819.2" y2="0" >
+<stop  offset="0" style="stop-color:#383838;stop-opacity:1" />
+<stop  offset="1" style="stop-color:#252525;stop-opacity:1" />
+</linearGradient>
+<path style="fill:url(#LinearGradID_396) " d="M33.35,2.3L33.35 4.4L31.7 5.55L27.5 5.55L27.5 2.3L33.35 2.3" />
+<linearGradient
+id="LinearGradID_397" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0, 0.00152588, -0.0012207, 0, 12.95, 3.45)" spreadMethod ="pad" x1="-819.2" y1="0" x2="819.2" y2="0" >
+<stop  offset="0" style="stop-color:#383838;stop-opacity:1" />
+<stop  offset="1" style="stop-color:#252525;stop-opacity:1" />
+</linearGradient>
+<path style="fill:url(#LinearGradID_397) " d="M26.55,2.25L26.55 5.5L21.8 4.55L-4.65 4.55L-4.65 2.25L26.55 2.25" />
+<path style="fill:#1C0A00;fill-opacity:1" d="M21.2,-1.15L21.2 4.7L20.3 4.7L20.3 -1.15L21.2 -1.15" />
+</g>
+</svg>

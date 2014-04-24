@@ -1,0 +1,1 @@
+﻿<p align="left"><font face="Mouse Deco" size="10" color="#ffc060" letterSpacing="2.000000" kerning="1">you can disable autopause in the menu</font></p>

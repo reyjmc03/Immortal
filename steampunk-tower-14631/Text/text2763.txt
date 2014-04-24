@@ -1,0 +1,1 @@
+﻿<p align="center"><font face="Mouse Deco" size="10" color="#000000" letterSpacing="1.000000" kerning="1">Lightnings shoot at multiple enemies</font></p>

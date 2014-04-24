@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1"
+xmlns="http://www.w3.org/2000/svg"
+xmlns:xlink="http://www.w3.org/1999/xlink"
+width="160px" height="23px"
+xml:space="preserve">
+<g id="1609" transform="matrix(1, 0, 0, 1, 160.5, 12.2)">
+<path style="fill:#ECD4A6;fill-opacity:1" d="M-154.65,-11.2L-26.4 -11.2L-24.4 -10.85Q-23.85 -10.7 -23.4 -10.4Q-21.55 -9.3 -21.5 -6.4L-21.5 -4.05L-2.45 0L-21.9 3.4Q-21.55 7.9 -23.4 9.05L-24.4 9.5L-26.4 9.8L-154.65 9.8Q-158.15 9.8 -159.1 7.65Q-159.5 6.8 -159.5 5.65L-159.5 3.6Q-159.45 -7.25 -159.1 -8.3Q-158.25 -11.2 -154.65 -11.2" />
+<path style="fill:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke:#623A2D;stroke-opacity:1" d="M-159.1,-8.3Q-159.45 -7.25 -159.5 3.6L-159.5 5.65Q-159.5 6.8 -159.1 7.65Q-158.15 9.8 -154.65 9.8L-26.4 9.8L-24.4 9.5L-23.4 9.05Q-21.55 7.9 -21.9 3.4L-2.45 0L-21.5 -4.05L-21.5 -6.4Q-21.55 -9.3 -23.4 -10.4Q-23.85 -10.7 -24.4 -10.85L-26.4 -11.2L-154.65 -11.2Q-158.25 -11.2 -159.1 -8.3z" />
+</g>
+</svg>

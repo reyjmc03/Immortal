@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1"
+xmlns="http://www.w3.org/2000/svg"
+xmlns:xlink="http://www.w3.org/1999/xlink"
+width="77px" height="106px"
+xml:space="preserve">
+<g id="1432" transform="matrix(1, 0, 0, 1, 1.1, -0.05)">
+<linearGradient
+id="LinearGradID_615" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.0457916, 0, 0, 0.00088501, 37.45, 104.95)" spreadMethod ="pad" x1="-819.2" y1="0" x2="819.2" y2="0" >
+<stop  offset="0.0980392" style="stop-color:#663300;stop-opacity:1" />
+<stop  offset="0.811765" style="stop-color:#663300;stop-opacity:0.8" />
+</linearGradient>
+<path style="fill:url(#LinearGradID_615) " d="M74.95,104.5L74.95 104.95L74.95 105.5L74.9 105.65L-0.05 105.65L-0.05 105.5L-0.05 104.95L-0.05 104.5L-0.05 104.2L74.9 104.2L74.95 104.5" />
+<linearGradient
+id="LinearGradID_616" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0, 0.0644073, -0.000701904, 0, 75, 52.9)" spreadMethod ="pad" x1="-819.2" y1="0" x2="819.2" y2="0" >
+<stop  offset="0.0980392" style="stop-color:#663300;stop-opacity:1" />
+<stop  offset="0.811765" style="stop-color:#663300;stop-opacity:0.8" />
+</linearGradient>
+<path style="fill:url(#LinearGradID_616) " d="M74.55,0.15L75 0.15L75.35 0.15L75.6 0.15L75.6 105.55L75.35 105.65L75 105.65L74.55 105.65L74.45 105.55L74.45 0.15L74.55 0.15" />
+<linearGradient
+id="LinearGradID_617" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0, -0.0644226, 0.000732422, 0, -0.5, 52.9)" spreadMethod ="pad" x1="-819.2" y1="0" x2="819.2" y2="0" >
+<stop  offset="0.0980392" style="stop-color:#663300;stop-opacity:1" />
+<stop  offset="0.811765" style="stop-color:#663300;stop-opacity:0.8" />
+</linearGradient>
+<path style="fill:url(#LinearGradID_617) " d="M-0.85,0.1L-0.5 0.1L0 0.1L0.1 0.15L0.1 105.6L0 105.65L-0.5 105.65L-0.85 105.65L-1.1 105.6L-1.1 0.15L-0.85 0.1" />
+<linearGradient
+id="LinearGradID_618" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.0457458, 0, 0, 0.000823975, 37.4, 0.7)" spreadMethod ="pad" x1="-819.2" y1="0" x2="819.2" y2="0" >
+<stop  offset="0.0980392" style="stop-color:#663300;stop-opacity:1" />
+<stop  offset="0.811765" style="stop-color:#663300;stop-opacity:0.8" />
+</linearGradient>
+<path style="fill:url(#LinearGradID_618) " d="M74.9,0.3L74.9 0.7L74.9 1.25L74.85 1.4L-0.05 1.4L-0.05 1.25L-0.05 0.7L-0.05 0.3L-0.05 0.05L74.85 0.05L74.9 0.3" />
+</g>
+</svg>

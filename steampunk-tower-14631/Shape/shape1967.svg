@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1"
+xmlns="http://www.w3.org/2000/svg"
+xmlns:xlink="http://www.w3.org/1999/xlink"
+width="10px" height="12px"
+xml:space="preserve">
+<g id="1167" transform="matrix(1, 0, 0, 1, 27, 10.9)">
+<path style="fill:#100806;fill-opacity:1" d="M-25.75,-10.9L-19 -10.9L-17.3 -9.85L-17.3 -1.2L-18.7 0.6L-26 0.6L-27 -1.2L-27 -9.25L-25.75 -10.9M-26.15,-1.7L-21.25 -1.7Q-21.6 -2.8 -22.4 -3.6Q-23.6 -4.9 -25.3 -4.9L-26.15 -4.8L-26.15 -1.7M-20.55,-1.6L-20.05 -1.6L-20 -5.3L-24.15 -5.3Q-22.9 -5.05 -21.9 -4.05Q-20.85 -3 -20.55 -1.6M-26.15,-5.8L-18.9 -5.7L-17.9 -6.1L-17.9 -9.35L-18.65 -9.75L-19.45 -10.2L-25.15 -10.2L-26.15 -9.05L-26.15 -5.8M-26.05,-0.9L-25.5 0.05L-19.25 0.05L-18.5 -0.9L-26.05 -0.9" />
+<path style="fill:#9F6329;fill-opacity:1" d="M-25,-9.6L-26.15 -9.05L-25.15 -10.2L-19.45 -10.2L-18.65 -9.75L-25 -9.6" />
+<linearGradient
+id="LinearGradID_395" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-0.00396729, 0.00990295, -0.00624084, -0.00250244, -20.55, -7.25)" spreadMethod ="pad" x1="-819.2" y1="0" x2="819.2" y2="0" >
+<stop  offset="0" style="stop-color:#511A16;stop-opacity:1" />
+<stop  offset="0.505882" style="stop-color:#6D4414;stop-opacity:1" />
+<stop  offset="1" style="stop-color:#511A16;stop-opacity:1" />
+</linearGradient>
+<path style="fill:url(#LinearGradID_395) " d="M-26.15,-4.8L-25.3 -4.9Q-23.6 -4.9 -22.4 -3.6Q-21.6 -2.8 -21.25 -1.7L-26.15 -1.7L-26.15 -4.8M-21.9,-4.05Q-22.9 -5.05 -24.15 -5.3L-20 -5.3L-20.05 -1.6L-20.55 -1.6Q-20.85 -3 -21.9 -4.05M-26.15,-9.05L-25 -9.6L-18.65 -9.75L-17.9 -9.35L-17.9 -6.1L-18.9 -5.7L-26.15 -5.8L-26.15 -9.05M-18.5,-0.9L-19.25 0.05L-25.5 0.05L-26.05 -0.9L-18.5 -0.9" />
+<path style="fill:#FFCC00;fill-opacity:1" d="M-25.85,-4.15L-22.15 -2.1L-25.8 -2.05L-25.85 -4.15M-25.8,-6.15L-25.85 -8.25L-22.15 -6.2L-25.8 -6.15" />
+</g>
+</svg>

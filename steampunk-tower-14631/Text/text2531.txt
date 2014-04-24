@@ -1,0 +1,1 @@
+﻿Prototype of new battle "Walking" unit. Has big radius of fire, but low speed.

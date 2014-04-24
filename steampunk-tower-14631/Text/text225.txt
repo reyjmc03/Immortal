@@ -1,0 +1,1 @@
+﻿Before each wave the special icon appears showing the enemies in this wave. You can summon the wave earlier and get extra money for that.

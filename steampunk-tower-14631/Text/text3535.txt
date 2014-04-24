@@ -1,0 +1,1 @@
+﻿<p align="left"><font face="Verdana" size="10" color="#ffffff" letterSpacing="0.500000" kerning="1"><b>txtFps</b></font></p>

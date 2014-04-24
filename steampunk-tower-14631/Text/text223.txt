@@ -1,0 +1,1 @@
+﻿A newly-purchased cannon appears in the tower’s cellar.  Drag the cannon to the left or right side of the tower so that it can shoot.  A cannon in the center of the tower won’t fire, but can reload shells.

@@ -1,0 +1,517 @@
+﻿<!DOCTYPE HTML>
+<html>
+	<head>
+		<style>*{margin:0;padding:0;}</style>
+		<meta charset="utf-8" />
+		<title></title>
+	</head>
+	<body style="overflow:hidden;">
+		<script>var data ={
+   "BackgroundColor" : "#000000",
+   "FileVersion" : "10",
+   "FrameCount" : "9",
+   "FrameHeight" : "120",
+   "FrameRate" : 24.0,
+   "FrameWidth" : "279",
+   "FrameRect" : {
+      "xmax" : 274,
+      "xmin" : -5,
+      "ymax" : 111,
+      "ymin" : -9
+   },
+   "MainFrame" : {
+      "type" : 39,
+      "ShowFrame" : [
+         {
+            "depth" : 1,
+            "id" : "3207",
+            "matrix" : "1,0,0,1,0,0",
+            "name" : "",
+            "replace" : true,
+            "type" : 26
+         },
+         {
+            "depth" : 2,
+            "id" : "3208",
+            "matrix" : "1,0,0,1,64,88",
+            "name" : "txtAmmo",
+            "replace" : true,
+            "type" : 26
+         },
+         {
+            "depth" : 3,
+            "id" : "3209",
+            "matrix" : "1,0,0,1,189,88",
+            "name" : "txtDistance",
+            "replace" : true,
+            "type" : 26
+         },
+         {
+            "depth" : 4,
+            "id" : "3210",
+            "matrix" : "1,0,0,1,63,70",
+            "name" : "txtAttack",
+            "replace" : true,
+            "type" : 26
+         },
+         {
+            "depth" : 5,
+            "id" : "3211",
+            "matrix" : "1,0,0,1,190,70",
+            "name" : "txtFireSpeed",
+            "replace" : true,
+            "type" : 26
+         },
+         {
+            "depth" : 6,
+            "id" : "3212",
+            "matrix" : "1,0,0,1,15,71",
+            "name" : "",
+            "replace" : true,
+            "type" : 26
+         },
+         {
+            "depth" : 7,
+            "id" : "3213",
+            "matrix" : "1,0,0,1,131,71",
+            "name" : "",
+            "replace" : true,
+            "type" : 26
+         },
+         {
+            "depth" : 8,
+            "id" : "3214",
+            "matrix" : "1,0,0,1,15,89",
+            "name" : "",
+            "replace" : true,
+            "type" : 26
+         },
+         {
+            "depth" : 9,
+            "id" : "3215",
+            "matrix" : "1,0,0,1,131,89",
+            "name" : "",
+            "replace" : true,
+            "type" : 26
+         },
+         {
+            "depth" : 10,
+            "id" : "3217",
+            "matrix" : "1,0,0,1,14,2",
+            "name" : "mcImg",
+            "replace" : true,
+            "type" : 26
+         },
+         {
+            "depth" : 15,
+            "id" : "3218",
+            "matrix" : "1,0,0,1,76,23",
+            "name" : "txtDescription",
+            "replace" : true,
+            "type" : 26
+         },
+         {
+            "depth" : 16,
+            "id" : "3219",
+            "matrix" : "1,0,0,1,76,50",
+            "name" : "txtFeature",
+            "replace" : true,
+            "type" : 26
+         },
+         {
+            "depth" : 17,
+            "id" : "3244",
+            "matrix" : "1,0,0,1,73,1",
+            "name" : "mcName",
+            "replace" : true,
+            "type" : 26
+         },
+         {
+            "type" : 1
+         }
+      ]
+   },
+   "tags" : [
+      {
+         "id" : 3207,
+         "type" : 2,
+         "FillStyles" : [
+            {
+               "height" : 120,
+               "overflow" : "visible",
+               "patternTransform" : "matrix(1, 0, 0, 1, -5, -9)",
+               "patternUnits" : "userSpaceOnUse",
+               "type" : 7,
+               "viewBox" : "0 0 278 120",
+               "width" : 278,
+               "image" : {
+                  "height" : 120,
+                  "width" : 278,
+                  "xlink:href" : "data:image/png;base64,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"
+               }
+            }
+         ],
+         "paths" : [
+            {
+               "data" : "M273,111L-5 111L-5 -9L273 -9L273 111",
+               "fill" : 0
+            }
+         ]
+      },
+      {
+         "id" : 3208,
+         "transform" : "matrix(1, 0, 0, 1, 0, 0)",
+         "type" : 11,
+         "records" : [
+            {
+               "bold" : false,
+               "color" : "rgb(102,204,0)",
+               "fontid" : 220,
+               "height" : 12.0,
+               "psd" : false,
+               "text" : "70",
+               "x" : -2.0,
+               "y" : 16.50
+            }
+         ]
+      },
+      {
+         "id" : 3209,
+         "transform" : "matrix(1, 0, 0, 1, 0, 0)",
+         "type" : 11,
+         "records" : [
+            {
+               "bold" : false,
+               "color" : "rgb(102,153,255)",
+               "fontid" : 220,
+               "height" : 12.0,
+               "psd" : false,
+               "text" : "Average",
+               "x" : -2.0,
+               "y" : 16.50
+            }
+         ]
+      },
+      {
+         "id" : 3210,
+         "transform" : "matrix(1, 0, 0, 1, 0, 0)",
+         "type" : 11,
+         "records" : [
+            {
+               "bold" : false,
+               "color" : "rgb(255,51,0)",
+               "fontid" : 220,
+               "height" : 12.0,
+               "psd" : false,
+               "text" : "75-110",
+               "x" : -2.0,
+               "y" : 16.50
+            }
+         ]
+      },
+      {
+         "id" : 3211,
+         "transform" : "matrix(1, 0, 0, 1, 0, 0)",
+         "type" : 11,
+         "records" : [
+            {
+               "bold" : false,
+               "color" : "rgb(255,255,102)",
+               "fontid" : 220,
+               "height" : 12.0,
+               "psd" : false,
+               "text" : "Slow",
+               "x" : -2.0,
+               "y" : 16.50
+            }
+         ]
+      },
+      {
+         "id" : 3212,
+         "transform" : "matrix(1, 0, 0, 1, 0, 0)",
+         "type" : 11,
+         "records" : [
+            {
+               "bold" : false,
+               "color" : "rgb(249,224,155)",
+               "fontid" : 2,
+               "height" : 10.0,
+               "text" : "Damage:",
+               "x" : "0 7.7 13.7 23.45 29.45 35.7 41.65 ",
+               "y" : "10 10 10 10 10 10 10 "
+            }
+         ]
+      },
+      {
+         "id" : 3213,
+         "transform" : "matrix(1, 0, 0, 1, 0, 0)",
+         "type" : 11,
+         "records" : [
+            {
+               "bold" : false,
+               "color" : "rgb(249,224,155)",
+               "fontid" : 2,
+               "height" : 10.0,
+               "text" : "Fire speed:",
+               "x" : "0 5.75 8.5 12.75 18.7 22.2 27.4 33.65 39.6 45.55 51.8 ",
+               "y" : "10 10 10 10 10 10 10 10 10 10 10 "
+            }
+         ]
+      },
+      {
+         "id" : 3214,
+         "transform" : "matrix(1, 0, 0, 1, 0, 0)",
+         "type" : 11,
+         "records" : [
+            {
+               "bold" : false,
+               "color" : "rgb(249,224,155)",
+               "fontid" : 2,
+               "height" : 10.0,
+               "text" : "Ammo:",
+               "x" : "0 6.85 16.6 26.35 32.4 ",
+               "y" : "10 10 10 10 10 "
+            }
+         ]
+      },
+      {
+         "id" : 3215,
+         "transform" : "matrix(1, 0, 0, 1, 0, 0)",
+         "type" : 11,
+         "records" : [
+            {
+               "bold" : false,
+               "color" : "rgb(249,224,155)",
+               "fontid" : 2,
+               "height" : 10.0,
+               "text" : "Distance:",
+               "x" : "0 7.7 10.45 15.65 19.6 25.6 31.95 37.15 43.1 ",
+               "y" : "10 10 10 10 10 10 10 10 10 "
+            }
+         ]
+      },
+      {
+         "FrameCount" : 1,
+         "id" : 3217,
+         "type" : 39,
+         "ShowFrame" : [
+            {
+               "type" : 1
+            }
+         ]
+      },
+      {
+         "id" : 3218,
+         "transform" : "matrix(1, 0, 0, 1, 0, 0)",
+         "type" : 11,
+         "records" : [
+            {
+               "bold" : false,
+               "color" : "rgb(249,224,155)",
+               "fontid" : 2,
+               "height" : 10.0,
+               "psd" : false,
+               "text" : "Тяжёлый автоматический миномёт с зажигательными снарядами",
+               "x" : -2.0,
+               "y" : 39.950
+            }
+         ]
+      },
+      {
+         "id" : 3219,
+         "transform" : "matrix(1, 0, 0, 1, 0, 0)",
+         "type" : 11,
+         "records" : [
+            {
+               "bold" : false,
+               "color" : "rgb(255,204,51)",
+               "fontid" : 2,
+               "height" : 10.0,
+               "psd" : false,
+               "text" : "Особенность орудия",
+               "x" : -2.0,
+               "y" : 14.050
+            }
+         ]
+      },
+      {
+         "FrameCount" : 24,
+         "id" : 3244,
+         "type" : 39,
+         "ShowFrame" : [
+            {
+               "labelname" : "machinegun1",
+               "type" : 43
+            },
+            {
+               "type" : 1
+            },
+            {
+               "labelname" : "machinegun2",
+               "type" : 43
+            },
+            {
+               "type" : 1
+            },
+            {
+               "labelname" : "machinegun3-1",
+               "type" : 43
+            },
+            {
+               "type" : 1
+            },
+            {
+               "labelname" : "machinegun4-1",
+               "type" : 43
+            },
+            {
+               "type" : 1
+            },
+            {
+               "labelname" : "machinegun3-2",
+               "type" : 43
+            },
+            {
+               "type" : 1
+            },
+            {
+               "labelname" : "machinegun4-2",
+               "type" : 43
+            },
+            {
+               "type" : 1
+            },
+            {
+               "labelname" : "heavygun1",
+               "type" : 43
+            },
+            {
+               "type" : 1
+            },
+            {
+               "labelname" : "heavygun2",
+               "type" : 43
+            },
+            {
+               "type" : 1
+            },
+            {
+               "labelname" : "heavygun3-1",
+               "type" : 43
+            },
+            {
+               "type" : 1
+            },
+            {
+               "labelname" : "heavygun4-1",
+               "type" : 43
+            },
+            {
+               "type" : 1
+            },
+            {
+               "labelname" : "heavygun3-2",
+               "type" : 43
+            },
+            {
+               "type" : 1
+            },
+            {
+               "labelname" : "heavygun4-2",
+               "type" : 43
+            },
+            {
+               "type" : 1
+            },
+            {
+               "labelname" : "sawgun1",
+               "type" : 43
+            },
+            {
+               "type" : 1
+            },
+            {
+               "labelname" : "sawgun2",
+               "type" : 43
+            },
+            {
+               "type" : 1
+            },
+            {
+               "labelname" : "sawgun3-1",
+               "type" : 43
+            },
+            {
+               "type" : 1
+            },
+            {
+               "labelname" : "sawgun4-1",
+               "type" : 43
+            },
+            {
+               "type" : 1
+            },
+            {
+               "labelname" : "sawgun3-2",
+               "type" : 43
+            },
+            {
+               "type" : 1
+            },
+            {
+               "labelname" : "sawgun4-2",
+               "type" : 43
+            },
+            {
+               "type" : 1
+            },
+            {
+               "labelname" : "electrogun1",
+               "type" : 43
+            },
+            {
+               "type" : 1
+            },
+            {
+               "labelname" : "electrogun2",
+               "type" : 43
+            },
+            {
+               "type" : 1
+            },
+            {
+               "labelname" : "electrogun3-1",
+               "type" : 43
+            },
+            {
+               "type" : 1
+            },
+            {
+               "labelname" : "electrogun4-1",
+               "type" : 43
+            },
+            {
+               "type" : 1
+            },
+            {
+               "labelname" : "electrogun3-2",
+               "type" : 43
+            },
+            {
+               "type" : 1
+            },
+            {
+               "labelname" : "electrogun4-2",
+               "type" : 43
+            },
+            {
+               "type" : 1
+            }
+         ]
+      }
+   ]
+}
+		</script>
+		<script src="sprite.js"></script>
+	</body>
+</html>

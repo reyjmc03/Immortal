@@ -1,0 +1,1 @@
+﻿<p align="center"><font face="Mouse Deco" size="12" color="#f9dbc2" letterSpacing="1.000000" kerning="1">money:</font></p>

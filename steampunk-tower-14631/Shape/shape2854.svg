@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1"
+xmlns="http://www.w3.org/2000/svg"
+xmlns:xlink="http://www.w3.org/1999/xlink"
+width="125px" height="44px"
+xml:space="preserve">
+<g id="1471" transform="matrix(1, 0, 0, 1, 1.65, 4.35)">
+<linearGradient
+id="LinearGradID_680" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.0760498, 0, 0, 0.0262756, 60.65, 17.15)" spreadMethod ="pad" x1="-819.2" y1="0" x2="819.2" y2="0" >
+<stop  offset="0" style="stop-color:#852600;stop-opacity:1" />
+<stop  offset="0.533333" style="stop-color:#C67F00;stop-opacity:1" />
+<stop  offset="1" style="stop-color:#852600;stop-opacity:1" />
+</linearGradient>
+<path style="fill:url(#LinearGradID_680) " d="M1.3,-2.45Q0.8 -2.45 0.45 -2.1Q0.1 -1.7 0.1 -1.2Q0.1 -0.65 0.45 -0.3Q0.8 0.1 1.3 0.1L2.2 -0.3Q2.55 -0.65 2.55 -1.15Q2.55 -1.7 2.2 -2.1Q1.8 -2.45 1.3 -2.45M-0.65,17.2L-0.65 17.15L-1.65 -0.15Q-1.7 -2.6 -0.35 -3.6Q0.7 -4.35 2.85 -4.35L60.55 -4.3L60.55 -3.35L2.65 -3.35L2.5 -3.35L3 -2.95Q3.7 -2.25 3.7 -1.2Q3.7 -0.2 3 0.5Q2.3 1.2 1.3 1.2Q0.35 1.2 -0.35 0.5L-0.45 0.4L-0.4 0.85Q-0.25 1.9 1.4 7.7Q3 13.25 3 13.9Q3.15 15.5 0.8 17.2L-0.65 17.2" />
+<linearGradient
+id="LinearGradID_681" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-0.0760498, 0, 0, 0.0262756, 60.6, 17.15)" spreadMethod ="pad" x1="-819.2" y1="0" x2="819.2" y2="0" >
+<stop  offset="0" style="stop-color:#852600;stop-opacity:1" />
+<stop  offset="0.533333" style="stop-color:#C67F00;stop-opacity:1" />
+<stop  offset="1" style="stop-color:#852600;stop-opacity:1" />
+</linearGradient>
+<path style="fill:url(#LinearGradID_681) " d="M120.45,17.2Q118.1 15.5 118.25 13.9Q118.25 13.25 119.85 7.7L121.65 0.85L121.7 0.4L121.6 0.5Q120.9 1.2 119.95 1.2Q118.95 1.2 118.25 0.5Q117.55 -0.2 117.55 -1.2Q117.55 -2.25 118.25 -2.95L118.75 -3.35L118.6 -3.35L60.7 -3.35L60.55 -3.35L60.55 -4.3L60.7 -4.3L118.4 -4.35Q120.55 -4.35 121.6 -3.6Q122.95 -2.6 122.9 -0.15L121.9 17.15L121.9 17.2L120.45 17.2M119.05,-2.1Q118.7 -1.7 118.7 -1.15Q118.7 -0.65 119.05 -0.3Q119.45 0.1 119.95 0.1Q120.45 0.1 120.8 -0.3Q121.15 -0.65 121.15 -1.2L120.8 -2.1Q120.45 -2.45 119.95 -2.45Q119.45 -2.45 119.05 -2.1" />
+<linearGradient
+id="LinearGradID_682" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-0.0760498, 0, 0, -0.0262756, 60.6, 17.25)" spreadMethod ="pad" x1="-819.2" y1="0" x2="819.2" y2="0" >
+<stop  offset="0" style="stop-color:#852600;stop-opacity:1" />
+<stop  offset="0.533333" style="stop-color:#C67F00;stop-opacity:1" />
+<stop  offset="1" style="stop-color:#852600;stop-opacity:1" />
+</linearGradient>
+<path style="fill:url(#LinearGradID_682) " d="M60.55,37.75L60.7 37.75L118.6 37.75L118.75 37.75L118.25 37.35Q117.55 36.65 117.55 35.6Q117.55 34.6 118.25 33.9Q118.95 33.2 119.95 33.2Q120.9 33.2 121.6 33.9L121.7 34L121.65 33.55L119.85 26.7L118.25 20.5Q118.1 18.9 120.45 17.2L121.9 17.2L121.9 17.25L122.9 34.55Q122.95 37 121.6 38Q120.55 38.75 118.4 38.75L60.7 38.7L60.55 38.7L60.55 37.75M119.95,36.85Q120.45 36.85 120.8 36.5L121.15 35.6Q121.15 35.05 120.8 34.7Q120.45 34.3 119.95 34.3Q119.45 34.3 119.05 34.7Q118.7 35.05 118.7 35.55Q118.7 36.1 119.05 36.5Q119.45 36.85 119.95 36.85" />
+<linearGradient
+id="LinearGradID_683" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.0760498, 0, 0, -0.0262756, 60.65, 17.25)" spreadMethod ="pad" x1="-819.2" y1="0" x2="819.2" y2="0" >
+<stop  offset="0" style="stop-color:#852600;stop-opacity:1" />
+<stop  offset="0.533333" style="stop-color:#C67F00;stop-opacity:1" />
+<stop  offset="1" style="stop-color:#852600;stop-opacity:1" />
+</linearGradient>
+<path style="fill:url(#LinearGradID_683) " d="M60.55,38.7L2.85 38.75Q0.7 38.75 -0.35 38Q-1.7 37 -1.65 34.55L-0.65 17.25L-0.65 17.2L0.8 17.2Q3.15 18.9 3 20.5Q3 21.15 1.4 26.7Q-0.25 32.5 -0.4 33.55L-0.45 34L-0.35 33.9Q0.35 33.2 1.3 33.2Q2.3 33.2 3 33.9Q3.7 34.6 3.7 35.6Q3.7 36.65 3 37.35L2.5 37.75L2.65 37.75L60.55 37.75L60.55 38.7M0.45,34.7Q0.1 35.05 0.1 35.6Q0.1 36.1 0.45 36.5Q0.8 36.85 1.3 36.85Q1.8 36.85 2.2 36.5Q2.55 36.1 2.55 35.55Q2.55 35.05 2.2 34.7L1.3 34.3Q0.8 34.3 0.45 34.7" />
+</g>
+</svg>

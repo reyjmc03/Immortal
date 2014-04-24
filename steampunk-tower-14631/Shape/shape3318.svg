@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1"
+xmlns="http://www.w3.org/2000/svg"
+xmlns:xlink="http://www.w3.org/1999/xlink"
+width="40px" height="40px"
+xml:space="preserve">
+<g id="1656" transform="matrix(1, 0, 0, 1, 0, 0)">
+<pattern 
+id="PatternID_785" patternUnits="userSpaceOnUse" overflow="visible" width="40" height="40" viewBox="0 0 40 40" patternTransform="matrix(1, 0, 0, 1, 0, 0)"
+>
+<image 
+width="40" height="40"
+xlink:href="data:image/png;base64,
+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"
+>
+</image>
+</pattern>
+<path style="fill:url(#PatternID_785) " d="M0,0L40 0L40 40L0 40L0 0" />
+</g>
+</svg>

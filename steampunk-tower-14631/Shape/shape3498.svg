@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1"
+xmlns="http://www.w3.org/2000/svg"
+xmlns:xlink="http://www.w3.org/1999/xlink"
+width="171px" height="203px"
+xml:space="preserve">
+<g id="1721" transform="matrix(1, 0, 0, 1, -14, -19.5)">
+<linearGradient
+id="LinearGradID_853" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0, -0.0805664, 0.0817871, 0, 99.9, 114)" spreadMethod ="pad" x1="-819.2" y1="0" x2="819.2" y2="0" >
+<stop  offset="0" style="stop-color:#FFFFFF;stop-opacity:0.298039" />
+<stop  offset="1" style="stop-color:#FFFFFF;stop-opacity:0" />
+</linearGradient>
+<path style="fill:url(#LinearGradID_853) " d="M128.4,47L128.4 181L71.4 181L71.4 47L128.4 47" />
+<path style="fill:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke:#666666;stroke-opacity:1" d="M127.75,20L127.75 91.5L184.5 91.5M14.5,136.5L71 136.5L71 91.5L14.5 91.5M71,20L71 91.5L127.75 91.5L127.75 136.5L184.5 136.5M127.75,181L127.75 136.5L71 136.5L71 181L71 222M127.75,181L127.75 222" />
+<path style="fill:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke:#FFFFFF;stroke-opacity:1" d="M71,181L14.5 181M71,181L127.75 181L184.5 181" />
+</g>
+</svg>
