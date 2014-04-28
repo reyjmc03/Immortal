@@ -3,17 +3,18 @@ using System.Collections;
 
 public class BodyControl : MonoBehaviour {
 	public GameObject body_tower;
+	public GameObject Body_tower;
+	public GameObject parent;
 	public GameObject top_tower;
-	public GameObject button;
 	// Use this for initialization
 	void Start () {
-		Instantiate (body_tower, new Vector3 (7.69f, -30f, 0), body_tower.transform.rotation);
-		Instantiate (body_tower, new Vector3 (7.69f, -19f, 0), body_tower.transform.rotation);
-		Instantiate (body_tower, new Vector3 (7.69f, -8f, 0), body_tower.transform.rotation);
+		Body_tower = Instantiate (body_tower) as GameObject;
+		Body_tower.transform.parent = parent.transform;
+		Body_tower.transform.localPosition = new Vector3 (-200, -338, 0); 
+		Body_tower.transform.localScale = new Vector3(1,1,1);
 	}
-	
+
 	// Update is called once per frame
 	void Update () {
-
 	}
 }
