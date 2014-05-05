@@ -10,7 +10,7 @@ public class BodyControl : MonoBehaviour {
 	void Start () {
 		Body_tower = Instantiate (body_tower) as GameObject;
 		Body_tower.transform.parent = parent.transform;
-		Body_tower.transform.localPosition = new Vector3 (-200, -338, 0); 
+		Body_tower.transform.localPosition = new Vector3 (-199, -329, 0); 
 		Body_tower.transform.localScale = new Vector3(1,1,1);
 	}
 

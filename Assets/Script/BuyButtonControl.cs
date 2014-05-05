@@ -41,7 +41,6 @@ public class BuyButtonControl : MonoBehaviour {
 				buyMachineGunButton.SetActive (true);
 				buyLightningButton.SetActive (true);
 				buyHeavyGunButton.SetActive (true);
-
 				buyMachineGunButton.GetComponent<TweenPosition>().PlayForward();
 				buyMachineGunButton.GetComponent<TweenAlpha>().PlayForward();
 				buySawButton.GetComponent<TweenPosition>().PlayForward();
