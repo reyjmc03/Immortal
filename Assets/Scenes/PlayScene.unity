@@ -531,6 +531,7 @@ GameObject:
   m_Component:
   - 4: {fileID: 170484432}
   - 114: {fileID: 170484433}
+  - 114: {fileID: 170484434}
   m_Layer: 8
   m_Name: TopTower
   m_TagString: Untagged
@@ -545,7 +546,7 @@ Transform:
   m_PrefabInternal: {fileID: 1289336929}
   m_GameObject: {fileID: 170484431}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -7, y: -50, z: 0}
+  m_LocalPosition: {x: -7.00000095, y: -149.613235, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 840293521}
@@ -582,7 +583,7 @@ MonoBehaviour:
   mPivot: 4
   mWidth: 168
   mHeight: 125
-  mDepth: 3
+  mDepth: 10
   autoResizeBoxCollider: 0
   hideIfOffScreen: 0
   keepAspectRatio: 0
@@ -600,6 +601,45 @@ MonoBehaviour:
   rightType: 1
   bottomType: 1
   topType: 1
+--- !u!114 &170484434
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 170484431}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d166255cacf07b4292b8402b3ddefc5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  method: 0
+  style: 0
+  animationCurve:
+    serializedVersion: 2
+    m_Curve:
+    - time: 0
+      value: 0
+      inSlope: 1
+      outSlope: 1
+      tangentMode: 10
+    - time: 1
+      value: 1
+      inSlope: 1
+      outSlope: 1
+      tangentMode: 10
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+  ignoreTimeScale: 1
+  delay: 0
+  duration: 1
+  steeperCurves: 0
+  tweenGroup: 0
+  onFinished: []
+  eventReceiver: {fileID: 0}
+  callWhenFinished: 
+  from: {x: -11, y: -239, z: 0}
+  to: {x: -11, y: -173, z: 0}
+  worldSpace: 0
 --- !u!1001 &323800406
 Prefab:
   m_ObjectHideFlags: 0
@@ -2543,11 +2583,11 @@ Prefab:
     m_Modifications:
     - target: {fileID: 400000, guid: 27e4da82726ca394d986d3784503f37f, type: 2}
       propertyPath: m_LocalPosition.x
-      value: -7
+      value: -7.00000095
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 27e4da82726ca394d986d3784503f37f, type: 2}
       propertyPath: m_LocalPosition.y
-      value: -50
+      value: -149.613235
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 27e4da82726ca394d986d3784503f37f, type: 2}
       propertyPath: m_LocalPosition.z
@@ -2588,6 +2628,10 @@ Prefab:
     - target: {fileID: 11400000, guid: 27e4da82726ca394d986d3784503f37f, type: 2}
       propertyPath: mHeight
       value: 125
+      objectReference: {fileID: 0}
+    - target: {fileID: 11400000, guid: 27e4da82726ca394d986d3784503f37f, type: 2}
+      propertyPath: mDepth
+      value: 10
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 27e4da82726ca394d986d3784503f37f, type: 2}
@@ -2934,6 +2978,7 @@ GameObject:
   - 114: {fileID: 1528506456}
   - 114: {fileID: 1528506455}
   - 114: {fileID: 1528506454}
+  - 114: {fileID: 1528506460}
   m_Layer: 8
   m_Name: BuyHeavyGunButton
   m_TagString: Untagged
@@ -3134,6 +3179,20 @@ MonoBehaviour:
   rightType: 1
   bottomType: 1
   topType: 1
+--- !u!114 &1528506460
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1528506452}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a240475f14c9524fbc06816219fbe8d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  canClick: 1
+  bodyControl: {fileID: 2034740754}
+  buyButtonControl: {fileID: 606732363}
 --- !u!1 &1619472121
 GameObject:
   m_ObjectHideFlags: 0
@@ -3325,7 +3384,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1816456879}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: .533333361, z: 0}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 840293521}
@@ -3606,13 +3665,13 @@ MonoBehaviour:
   updateAnchors: 1
   mColor: {r: 1, g: 1, b: 1, a: 1}
   mPivot: 4
-  mWidth: 1152
+  mWidth: 960
   mHeight: 720
   mDepth: -5
   autoResizeBoxCollider: 0
   hideIfOffScreen: 0
   keepAspectRatio: 0
-  aspectRatio: 1.60000002
+  aspectRatio: 1.33333337
   mRect:
     serializedVersion: 2
     x: 0
@@ -3637,4 +3696,8 @@ MonoBehaviour:
   body_tower: {fileID: 100000, guid: d81a3144d1e6ba44283d6e85fc2d9371, type: 2}
   Body_tower: {fileID: 0}
   parent: {fileID: 1816456879}
-  top_tower: {fileID: 100000, guid: 27e4da82726ca394d986d3784503f37f, type: 2}
+  top_tower: {fileID: 170484431}
+  nextPosition: {x: -200, y: -338, z: 0}
+  fromPosition: {x: -7, y: -275.5, z: 0}
+  toPosition: {x: -7, y: -242, z: 0}
+  number_Of_Floor: 0

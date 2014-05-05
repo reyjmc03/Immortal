@@ -54,23 +54,27 @@ public class BuyButtonControl : MonoBehaviour {
 				isClicked = true;
 			}else
 			{
-				canClick = false;
-
-				buyMachineGunButton.GetComponent<TweenPosition>().PlayReverse();
-				buyMachineGunButton.GetComponent<TweenAlpha>().PlayReverse();
-				buySawButton.GetComponent<TweenPosition>().PlayReverse();
-				buySawButton.GetComponent<TweenAlpha>().PlayReverse();
-				buyLightningButton.GetComponent<TweenPosition>().PlayReverse();
-				buyLightningButton.GetComponent<TweenAlpha>().PlayReverse();
-				buyHeavyGunButton.GetComponent<TweenPosition>().PlayReverse();
-				buyHeavyGunButton.GetComponent<TweenAlpha>().PlayReverse();
-
-				StartCoroutine(wait(0.5f));
-				StartCoroutine(waitToClick(0.5f));
-				isClicked = false;
+                closeButton();
 			}
 
 		}
 		
 	}
+
+    public void closeButton() {
+        canClick = false;
+
+        buyMachineGunButton.GetComponent<TweenPosition>().PlayReverse();
+        buyMachineGunButton.GetComponent<TweenAlpha>().PlayReverse();
+        buySawButton.GetComponent<TweenPosition>().PlayReverse();
+        buySawButton.GetComponent<TweenAlpha>().PlayReverse();
+        buyLightningButton.GetComponent<TweenPosition>().PlayReverse();
+        buyLightningButton.GetComponent<TweenAlpha>().PlayReverse();
+        buyHeavyGunButton.GetComponent<TweenPosition>().PlayReverse();
+        buyHeavyGunButton.GetComponent<TweenAlpha>().PlayReverse();
+
+        StartCoroutine(wait(0.5f));
+        StartCoroutine(waitToClick(0.5f));
+        isClicked = false;
+    }
 }

@@ -1,12 +1,8 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script\BodyControl.cs">
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script\Constants.cs">
     <Files>
-      <File FileName="Assets\Script\BodyControl.cs" Line="13" Column="69" />
-      <File FileName="Assets\Script\BuyButtonControl.cs" Line="35" Column="2" />
-      <File FileName="Assets\Script\Constants.cs" Line="8" Column="57" />
-      <File FileName="Assets\NGUI\Scripts\Tweening\TweenPosition.cs" Line="70" Column="17" />
-      <File FileName="Assets\NGUI\Scripts\Tweening\TweenAlpha.cs" Line="12" Column="41" />
+      <File FileName="Assets\Script\Constants.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
